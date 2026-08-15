@@ -10,4 +10,3 @@ UNION ALL
 
 SELECT *
 FROM `google_fiber.market_3`
-UNION ALL
