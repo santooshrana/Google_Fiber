@@ -1,0 +1,13 @@
+# A faster and more concise version of running Query 1
+
+SELECT *
+FROM `google_fiber.market_1`
+UNION ALL
+
+SELECT *
+FROM `google_fiber.market_2`
+UNION ALL
+
+SELECT *
+FROM `google_fiber.market_3`
+UNION ALL
